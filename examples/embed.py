@@ -20,3 +20,4 @@ async def on_ping(message):  # Doesn't matter what you call the function.
 
 # Run the client
 client.run("TOKEN")  # Replace with your own token
+ 
